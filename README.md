@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slopityx
 - ❤  I’m interested in math and computer
 - 🌱 I’m currently learning python
-- 🌹 Love you :)
+  
 
 
 
